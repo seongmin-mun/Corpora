@@ -6,6 +6,7 @@ Regarding the process of creating a hand-coded corpus, I extract sentences havin
 The final corpus data are then hand-coded by the three native speakers of Korean, following the functions of the individual postpositions. The inter-rater reliability of the data was measured with the Fleiss's Kappa (Landis and Koch, 1977). The results were a score of 0.948 for <i>-ey</i>, 0.928 for <i>-eyse</i>, and 0.947 for <i>-(u)lo</i>, which are considered <i>almost perfect</i> according to the Kappa scale. I decide to exclude sentences that caused disagreement among the human annotators (i.e., 285 sentences for <i>-ey</i>, 147 sentences for <i>-eyse</i>, and 292 sentences for <i>-(u)lo</i>). After which, I obtain the final corpus
 data for each postposition. This yielded 4,715 sentences for <i>-ey</i>, 4,853 sentences for <i>-eyse</i>, and 4,708 sentences for <i>-(u)lo</i>. The Table below presents the detailed by-function frequency list of the three postposition types.
 
+## By-function frequency list of <i>-ey</i>, <i>-eyse</i>, and <i>-(u)lo</i> in cross-validated corpus.
 
 <div class="table*">
 
