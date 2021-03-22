@@ -10,7 +10,7 @@ data for each postposition. This yielded 4,715 sentences for <i>-ey</i>, 4,853 s
 
 <div class="table*">
 
-| ***-ey***             | ***-eyse***             | ***-(u)lo***             |
+| ***-ey*** |           | ***-eyse*** |           | ***-(u)lo*** |           |
 |:----------|:---------:|:------------|:---------:|:-------------|:---------:|
 | Function  | Frequency | Function    | Frequency | Function     | Frequency |
 | LOC       |   1,780   | LOC         |   4,206   | FNS          |   1,681   |
