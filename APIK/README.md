@@ -30,4 +30,4 @@ location; SRC = source; THM = theme
 </div>
 
 ### <i>-ey</i>
-<img src="./Glosses/1.png" width="200" height="200">
+<img src="./Glosses/1.png" display="block" margin-left="auto" margin-right="auto" width="50%">
