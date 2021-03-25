@@ -29,6 +29,8 @@ location; SRC = source; THM = theme
 
 </div>
 
+# Examples for the functions of each postposition
+
 ## <i>-ey</i>
 
 Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
@@ -62,3 +64,39 @@ Agent (AGT) a function that makes the preceding word as an entity that intention
 Final state (FNS) is a function that allows the preceding word to present the current state. In the following sentence (i.e., this sentence is extracted from the file <i>V-chwuchenhata</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>as</i> in English.
 
 <img src="./Glosses/8.png" width="60%">
+
+## <i>-eyse</i>
+
+Source (SRC) is a function that indicates the origin of an action, the point at which the action is initiated. In the following sentence (i.e., this sentence is extracted from the file <i>V-ppopaollita</i> in the Sejong Electronic Dictionary), <i>-eyse</i> is playing the same role as <i>from</i> in English.
+
+<img src="./Glosses/9.png" width="60%">
+
+The definition of the location (LOC) is the same as described for <i>-ey</i> (location). In the following sentence (i.e., this sentence is extracted from the file <i>V-thayenata</i> in the Sejong Electronic Dictionary), <i>-eyse</i> is playing the same role as <i>in</i> in English.
+
+<img src="./Glosses/10.png" width="60%">
+
+## <i>-(u)lo</i>
+
+The definition of the final state (FNS) is the same as described above (see (8)). In the following sentence (i.e., this sentence is extracted from the file <i>V-chopingtoyta</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>as</i> in English.
+
+<img src="./Glosses/11.png" width="60%">
+
+The definition of instrument (INS) is the same as described above (see (6)). In the following sentence (i.e., this sentence is extracted from the file <i>V-kamkita</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>with</i> in English.
+
+<img src="./Glosses/12.png" width="60%">
+
+Direction (DIR) is a function to indicate the direction of the point at which the preceding word is directed. In the following sentence (i.e., this sentence is extracted from the file <i>V-talanata</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>into</i> in English.
+
+<img src="./Glosses/13.png" width="60%">
+
+The definition of effector (EFF) is the same as described above (3). In the following sentence (i.e., this sentence is extracted from the file <i>V-koylowehata</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>due to</i> in English.
+
+<img src="./Glosses/14.png" width="60%">
+
+The definition of criterion (CRT) is the same as described above (see (4)). In the following sentence (i.e., this sentence is extracted from the file <i>V-paychatoyta</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>at</i> in English.
+
+<img src="./Glosses/15.png" width="60%">
+
+The definition of LOC is the same as described above (see (1)). In the following sentence (i.e., this sentence is extracted from the file  <i>V-apsonghata</i> in the Sejong Electronic Dictionary),  <i>-(u)lo</i> is playing the same role as  <i>to</i> in English.
+
+<img src="./Glosses/16.png" width="60%">
