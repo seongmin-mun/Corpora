@@ -30,4 +30,7 @@ location; SRC = source; THM = theme
 </div>
 
 ### <i>-ey</i>
+
+Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file \textit{V-phamwuthita} in the Sejong Electronic Dictionary), \textit{-ey} is playing the same role as \textit{in} in English.
+
 <img src="./Glosses/1.png" width="60%">
