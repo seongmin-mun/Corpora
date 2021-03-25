@@ -29,8 +29,36 @@ location; SRC = source; THM = theme
 
 </div>
 
-### <i>-ey</i>
+## <i>-ey</i>
 
-Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file \textit{V-phamwuthita} in the Sejong Electronic Dictionary), \textit{-ey} is playing the same role as \textit{in} in English.
+Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
 
 <img src="./Glosses/1.png" width="60%">
+
+Goal (GOL) is a function that indicates the preceding word is where the object reaches. In the following sentence (i.e., this sentence is extracted from the file <i>V-naylyekkochita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>to</i> in English.
+
+<img src="./Glosses/2.png" width="60%">
+
+Effector (EFF) is a function that indicates that the preceding word influences the theme to act or change when an event occurs. In the following sentence (i.e., this sentence is extracted from the file <i>V-kentultayta</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>by</i> in English.
+
+<img src="./Glosses/3.png" width="60%">
+
+Criterion (CRT) is a function that indicates that the preceding word is the standard for quantitative classification of the specific property of the theme. In the following sentence (i.e., this sentence is extracted from the file <i>V-nakchalhata</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>for</i> in English.
+
+<img src="./Glosses/4.png" width="60%">
+
+Theme (THM) is a function that makes the preceding word as an entity that directly receives the action of the verb. In the following sentence (i.e., this sentence is extracted from the file <i>V-hekicita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>for</i> in English.
+
+<img src="./Glosses/5.png" width="60%">
+
+Instrument (INS) is a function that indicates the preceding word engages in an action or a process as a tool. In the following sentence (i.e., this sentence is extracted from the file <i>V-nokita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
+
+<img src="./Glosses/6.png" width="60%">
+
+Agent (AGT) a function that makes the preceding word as an entity that intentionally carries out the action of the verb. In the following sentence (i.e., this sentence is extracted from the file <i>V-cecitoyta</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>by</i> in English.
+
+<img src="./Glosses/7.png" width="60%">
+
+Final state (FNS) is a function that allows the preceding word to present the current state. In the following sentence (i.e., this sentence is extracted from the file <i>V-chwuchenhata</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>as</i> in English.
+
+<img src="./Glosses/8.png" width="60%">
