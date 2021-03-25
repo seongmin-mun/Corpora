@@ -28,3 +28,6 @@ data for each postposition. This yielded 4,715 sentences for <i>-ey</i>, 4,853 s
 location; SRC = source; THM = theme
 
 </div>
+
+### <i>-ey</i>
+<img src="./Glosses/1.png" style="max-width:50%;">
