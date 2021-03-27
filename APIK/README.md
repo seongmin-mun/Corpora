@@ -43,7 +43,7 @@ p.b {
 }
 </style>
 
-<p class="a" style="margin-left: 30px;">A paragraph with a top and bottom margin of 30 pixels.</p>
+<p class="a" STYLE="margin-left: 30px;">A paragraph with a top and bottom margin of 30 pixels.</p>
 <p class="b">A paragraph with a top and bottom margin of 20 pixels.</p>
 
 Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
