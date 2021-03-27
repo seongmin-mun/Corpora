@@ -35,8 +35,6 @@ location; SRC = source; THM = theme
 
 Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
 
-<img src="./Glosses/1.png" width="60%">
-
 <pre>
      (1) <i>-ey</i> as LOC (location)
          그는    온종일     서재에            파묻혀       지낸다.
@@ -47,7 +45,13 @@ Location (LOC) is a function that represents the spatial place where an event oc
 
 Goal (GOL) is a function that indicates the preceding word is where the object reaches. In the following sentence (i.e., this sentence is extracted from the file <i>V-naylyekkochita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>to</i> in English.
 
-<img src="./Glosses/2.png" width="60%">
+<pre>
+     (2) <i>-ey</i> as GOL (goal)
+         철수가         던진      칼이        땅바닥에         내리꽂혔다.
+         Chelswu-ka   tenci-n  khal-i     ttangpatak-ey  naylyekkochy-ess-ta.
+         Chelswu-TOP  throw    knife-NOM  ground-GOL     stick-PST-DECL
+         'The knife thrown by Chelswu stuck to the ground.'  
+</pre>
 
 Effector (EFF) is a function that indicates that the preceding word influences the theme to act or change when an event occurs. In the following sentence (i.e., this sentence is extracted from the file <i>V-kentultayta</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>by</i> in English.
 
