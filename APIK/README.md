@@ -3,6 +3,8 @@
 
 # Adverbial Postpositions In Korean (APIK)
 
+>>dfdf>>>dfdf
+
 ## Abstract
 To conduct the research on Korean adverbial postpositions, I need a corpus with the intended functions of postpositions tagged in each sentence. However, the [Sejong corpus](https://www.korean.go.kr), mother corpus of my study does not code the functions of postpositions directly. Therefore, I annotate the corpus manually with the help of three native speakers of Korean. Among the three, one was an instructor who teaches Korean to children and the other two were Ph.D. candidates in linguistics. They managed all the details of the corpus annotation, from the development of the annotation manual to the manual annotation of the intended function of postposition in each sentence. <br> <br>
 Regarding the process of creating a hand-coded corpus, I extract sentences having only one postposition and predicate. Although this manipulation omitted many sentences already extracted from the original corpus, it was beneficial for controlling any additional confounding factors which could have interfered with the performance of my model. If a sentence contains more than one postposition, including the three postpositions that I focused on, they become less independent of each other. This means the model performance of each postposition will be affected by each other. This reduction process resulted in a total of 27,720 sentences, with 14,096 sentences for <i>-ey</i>, 5,078 sentences for <i>-eyse</i>, and 8,546 sentences for <i>-(u)lo</i>. I then extract 5,000 sentences randomly for each postposition to keep an equal number of sentences for each one.<br> <br>
