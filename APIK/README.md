@@ -55,60 +55,145 @@ Goal (GOL) is a function that indicates the preceding word is where the object r
 
 Effector (EFF) is a function that indicates that the preceding word influences the theme to act or change when an event occurs. In the following sentence (i.e., this sentence is extracted from the file <i>V-kentultayta</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>by</i> in English.
 
-<img src="./Glosses/3.png" width="60%">
+<pre>
+     (3) <i>-ey</i> as EFF (effector)
+         문들이         거센     바람에     모두     건들댄다.
+         mwuntul-i    keseyn  palam-ey  motwu  kentultay-n-ta.
+         door-PL-NOM  strong  wind-EFF  all    sway-PRS-DECL
+         'The doors all sway by the strong wind.'
+</pre>
 
 Criterion (CRT) is a function that indicates that the preceding word is the standard for quantitative classification of the specific property of the theme. In the following sentence (i.e., this sentence is extracted from the file <i>V-nakchalhata</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>for</i> in English.
 
-<img src="./Glosses/4.png" width="60%">
+<pre>
+     (4) <i>-ey</i> as CRT (criterion)
+         영호는          20만원에           모니터를         낙찰했다.
+         Yenghuy-nun   20manwen-ey       monithe-lul   nakchalhay-ss-ta.
+         Yenghuy-TOP   200,000 won-CRT   moniter-ACC   sell-PST-DECL
+         'Yenghuy sold the monitor to a bidder for 200,000 won.'
+</pre>
 
 Theme (THM) is a function that makes the preceding word as an entity that directly receives the action of the verb. In the following sentence (i.e., this sentence is extracted from the file <i>V-hekicita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>for</i> in English.
 
-<img src="./Glosses/5.png" width="60%">
+<pre>
+     (5) <i>-ey</i> as THM (theme)
+         현대인들은                 모두    참된       지식에           허기져있다.
+         hyentayintul-un         motwu  chamtoyn  cisik-ey       hekicye-iss-ta.
+         modern people-PL-TOP    all    true      knowledge-THM  hungry-DECL
+         'All modern people are hungry for true knowledge.'
+</pre>
 
 Instrument (INS) is a function that indicates the preceding word engages in an action or a process as a tool. In the following sentence (i.e., this sentence is extracted from the file <i>V-nokita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
 
-<img src="./Glosses/6.png" width="60%">
+<pre>
+     (6) <i>-ey</i> as INS (instrument)
+         그     어린    소년은       화롯불에           손을        녹이고     있었다.
+         ku    elin   sonye-nun   hwalospwul-ey   son-ul     noki-ko   iss-ess-ta.
+         That  young  boy-TOP     fire-INS        hand-ACC   melt-and  be-PST-DECL
+         'The young boy was using the fire to warm his hands.'
+</pre>
 
 Agent (AGT) a function that makes the preceding word as an entity that intentionally carries out the action of the verb. In the following sentence (i.e., this sentence is extracted from the file <i>V-cecitoyta</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>by</i> in English.
 
-<img src="./Glosses/7.png" width="60%">
+<pre>
+     (7) <i>-ey</i> as AGT (agent)
+         가두      진출이          경찰에           저지되었다.
+         katwu    cinchwul-i    kyengchal-ey   cecitoy-ess-ta.
+         street   go out-NOM    police-AGT     stop-PST-DECL
+         'Going out to the street was stopped by the police.'
+</pre>
 
 Final state (FNS) is a function that allows the preceding word to present the current state. In the following sentence (i.e., this sentence is extracted from the file <i>V-chwuchenhata</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>as</i> in English.
 
-<img src="./Glosses/8.png" width="60%">
+<pre>
+     (8) <i>-ey</i> as FNS (final state)
+         김교수는              조교에           박군을         추천했다.
+         kimkyoswu-nun       cokyo-ey       pakkwun-ul   chwuchenhay-ess-ta.
+         professor Kim-TOP   assistant-FNS  Pakk-ACC     recommend-PST-DECL
+         'Professor Kim recommended Pakk as an assistant.'
+</pre>
 
 ## <i>-eyse</i>
 
 Source (SRC) is a function that indicates the origin of an action, the point at which the action is initiated. In the following sentence (i.e., this sentence is extracted from the file <i>V-ppopaollita</i> in the Sejong Electronic Dictionary), <i>-eyse</i> is playing the same role as <i>from</i> in English.
 
-<img src="./Glosses/9.png" width="60%">
+<pre>
+     (9) <i>-eyse</i> as SRC (source)
+         광부들이          바다에서      석유를       뽑아올린다.
+         kwangpwutul-i   pata-eyse  sekyu-lul   ppopaolli-n-ta.
+         miner-PL-NOM    sea-SRC    oil-ACC     pull-DECL
+         'Miners pull oil from the sea.'
+</pre>
 
 The definition of the location (LOC) is the same as described for <i>-ey</i> (location). In the following sentence (i.e., this sentence is extracted from the file <i>V-thayenata</i> in the Sejong Electronic Dictionary), <i>-eyse</i> is playing the same role as <i>in</i> in English.
 
-<img src="./Glosses/10.png" width="60%">
+<pre>
+     (10) <i>-eyse</i> as LOC (location)
+          철수는          서울에서      태어났다.
+          Chelswu-nun   sewul-eyse  thayen-ass-ta.
+          Chelswu-TOP   seoul-LOC   born-PST-DECL
+          'Chelswu was born in Seoul.'
+</pre>
 
 ## <i>-(u)lo</i>
 
 The definition of the final state (FNS) is the same as described above (see (8)). In the following sentence (i.e., this sentence is extracted from the file <i>V-chopingtoyta</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>as</i> in English.
 
-<img src="./Glosses/11.png" width="60%">
+<pre>
+     (11) <i>-(u)lo</i> as FNS (final state)
+          그는      대표              강사로            초빙되었다.
+          ku-nun   tayphyo          kangsa-lo       chopingtoy-ess-ta.
+          He-TOP   representative   lecturer-FNS    invite-PST-DECL
+          'He was invited as a representative lecturer.'
+</pre>
 
 The definition of instrument (INS) is the same as described above (see (6)). In the following sentence (i.e., this sentence is extracted from the file <i>V-kamkita</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>with</i> in English.
 
-<img src="./Glosses/12.png" width="60%">
+<pre>
+     (12) <i>-(u)lo</i> as INS (instrument)
+          전선이       연줄로                 감겼다.
+          censen-i   yencwul-lo            kamky-ess-ta.
+          wire-NOM   connection wire-INS   wind-PST-DECL
+          'The wire wound around with the connection wire.'
+</pre>
 
 Direction (DIR) is a function to indicate the direction of the point at which the preceding word is directed. In the following sentence (i.e., this sentence is extracted from the file <i>V-talanata</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>into</i> in English.
 
-<img src="./Glosses/13.png" width="60%">
+<pre>
+     (13) <i>-(u)lo</i> as DIR (direction)
+          범인은           어두운     골목으로        달아났다.
+          pemi-nun       etwuwun   kolmok-ulo   talan-ass-ta.
+          criminal-NOM   dark      alley-DIR    flee-PST-DECL
+          'The criminal fled into a dark alley.'
+</pre>
 
 The definition of effector (EFF) is the same as described above (3). In the following sentence (i.e., this sentence is extracted from the file <i>V-koylowehata</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>due to</i> in English.
 
-<img src="./Glosses/14.png" width="60%">
+<pre>
+     (14) <i>-(u)lo</i> as EFF (effector)
+          환자가           위암으로                매우     괴로워하고        있습니다.
+          hwanca-ka      wiam-ulo              maywu   koyloweha-ko   isssupni-ta.
+          patient-NOM    stomach cancer-EFF    very    suffer-and     be-DECL
+          'The patient is suffering greatly due to stomach cancer.'
+</pre>
 
 The definition of criterion (CRT) is the same as described above (see (4)). In the following sentence (i.e., this sentence is extracted from the file <i>V-paychatoyta</i> in the Sejong Electronic Dictionary), <i>-(u)lo</i> is playing the same role as <i>at</i> in English.
 
-<img src="./Glosses/15.png" width="60%">
+
+<pre>
+     (15) <i>-(u)lo</i> as CRT (criterion)
+          적당한         시간     간격으로        배차되었다.
+          cektangha-n  sikan   kankyek-ulo   paycha.toy-ess-ta.
+          appropriate  time    interval-CRT  arrange-PST-DECL
+          'It was arranged at appropriate time intervals.'
+</pre>
 
 The definition of LOC is the same as described above (see (1)). In the following sentence (i.e., this sentence is extracted from the file  <i>V-apsonghata</i> in the Sejong Electronic Dictionary),  <i>-(u)lo</i> is playing the same role as  <i>to</i> in English.
 
-<img src="./Glosses/16.png" width="60%">
+<pre>
+     (16) <i>-(u)lo</i> as LOC (location)
+          검찰이           피해자를        검찰로              압송하다.
+          kyengchal-i    phiuyca-lul   kemchal-lo        apsongha-ta.
+          police-NOM     suspect-ACC   prosecution-LOC   transport do-DECL
+          'The police transport the suspect to the prosecution.'
+</pre>
