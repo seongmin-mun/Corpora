@@ -1,6 +1,5 @@
 <link rel="stylesheet" type="text/css" href="../CSS/APLK.css">
 
-</style>
 
 # Adverbial Postpositions In Korean (APIK)
 
@@ -41,7 +40,7 @@ location; SRC = source; THM = theme
 <p class="a">A paragraph with a top and bottom margin of 30 pixels.</p>
 <p class="b">A paragraph with a top and bottom margin of 20 pixels.</p>
 
-Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
+&#160;Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
 
 <img src="./Glosses/1.png" width="60%">
 
