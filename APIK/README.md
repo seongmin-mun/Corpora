@@ -1,21 +1,4 @@
-<link rel="stylesheet" type="text/css" href="../CSS/APLK.css">
-
-
 # Adverbial Postpositions In Korean (APIK)
-
-<pre>
-This        Thdfsfat        Anddfdf             This
-That        This            And                 That    
-</pre>
-
-
-Line 1
-> line 2 
->> line 3
-
-&nbsp;&nbsp;dfdfs&nbsp;&nbsp;&nbsp;sdfsf<br>
-&nbsp;&nbsp;ddfsfsffdfs&nbsp;&nbsp;&nbsp;sdfsfdfdf
-
 
 ## Abstract
 To conduct the research on Korean adverbial postpositions, I need a corpus with the intended functions of postpositions tagged in each sentence. However, the [Sejong corpus](https://www.korean.go.kr), mother corpus of my study does not code the functions of postpositions directly. Therefore, I annotate the corpus manually with the help of three native speakers of Korean. Among the three, one was an instructor who teaches Korean to children and the other two were Ph.D. candidates in linguistics. They managed all the details of the corpus annotation, from the development of the annotation manual to the manual annotation of the intended function of postposition in each sentence. <br> <br>
@@ -50,16 +33,17 @@ location; SRC = source; THM = theme
 
 ## <i>-ey</i>
 
-
-<div STYLE="margin-left: 30px;"><p>A paragraph with a top and bottom margin of 30 pixels.</p></div>
-<p class="b">A paragraph with a top and bottom margin of 20 pixels.</p>
-&#160;&#160;&#160;paragraph&#160;&#160;&#160;paragraph&#160;&#160;&#160;<br>
-&#160;&#160;&#160;paaph&#160;&#160;&#160;parh&#160;&#160;&#160;<br>
-&#160;&#160;&#160;paraph&#160;&#160;&#160;paragraph&#160;&#160;&#160;<br>
-
-&#160;Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
+Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
 
 <img src="./Glosses/1.png" width="60%">
+
+<pre>
+     (1) <i>-ey</i> as LOC (location)
+         그는    온종일     서재에            파묻혀       지낸다.
+         ku-nun oncongil secay-ey        phamwuthye  cinay-n-ta.
+         He-TOP all day  study room-LOC  bury in     be-PRS-DECL
+         'He is buried in his study room all day.'  
+</pre>
 
 Goal (GOL) is a function that indicates the preceding word is where the object reaches. In the following sentence (i.e., this sentence is extracted from the file <i>V-naylyekkochita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>to</i> in English.
 
