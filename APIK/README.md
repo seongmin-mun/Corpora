@@ -3,6 +3,12 @@
 
 # Adverbial Postpositions In Korean (APIK)
 
+<pre>
+This        That        And             This
+That        This        And             That    
+</pre>
+
+
 Line 1
 > line 2 
 >> line 3
