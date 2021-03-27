@@ -4,7 +4,7 @@
 # Adverbial Postpositions In Korean (APIK)
 
 <pre>
-This        That        And             This
+This        Thdfsfat        Anddfdf             This
 That        This        And             That    
 </pre>
 
