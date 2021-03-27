@@ -33,7 +33,7 @@ location; SRC = source; THM = theme
 
 ## <i>-ey</i>
 
-<link rel="stylesheet" type="text/css" href="../CSS/APIK.css">
+<link rel="stylesheet" type="text/css" href="../CSS/APLK.css">
 
 
 
