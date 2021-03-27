@@ -3,7 +3,10 @@
 
 # Adverbial Postpositions In Korean (APIK)
 
->>dfdf>>>dfdf
+>>dfdf
+
+&nbsp;&nbsp;dfdfs&nbsp;&nbsp;&nbsp;
+
 
 ## Abstract
 To conduct the research on Korean adverbial postpositions, I need a corpus with the intended functions of postpositions tagged in each sentence. However, the [Sejong corpus](https://www.korean.go.kr), mother corpus of my study does not code the functions of postpositions directly. Therefore, I annotate the corpus manually with the help of three native speakers of Korean. Among the three, one was an instructor who teaches Korean to children and the other two were Ph.D. candidates in linguistics. They managed all the details of the corpus annotation, from the development of the annotation manual to the manual annotation of the intended function of postposition in each sentence. <br> <br>
