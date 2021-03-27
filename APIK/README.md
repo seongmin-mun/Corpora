@@ -1,12 +1,5 @@
-<!-- <link rel="stylesheet" type="text/css" href="../CSS/APLK.css"> -->
-<style>
-  p.a {
-    margin-left: 30px;
-  }
+<link rel="stylesheet" type="text/css" href="../CSS/APLK.css">
 
-  p.b {
-    margin-left: 50px;
-  }
 </style>
 
 # Adverbial Postpositions In Korean (APIK)
