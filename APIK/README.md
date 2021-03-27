@@ -33,7 +33,18 @@ location; SRC = source; THM = theme
 
 ## <i>-ey</i>
 
-<p style="margin-left: 40px;">아니</p><p style="margin-left: 80px;">아니</p>
+<style>
+p.a {
+  margin-left: 30px;
+}
+
+p.b {
+  margin-left: 50px;
+}
+</style>
+
+<p class="a">A paragraph with a top and bottom margin of 30 pixels.</p>
+<p class="b">A paragraph with a top and bottom margin of 20 pixels.</p>
 
 Location (LOC) is a function that represents the spatial place where an event occurs. In the following sentence (i.e. this sentence is extracted from the file <i>V-phamwuthita</i> in the Sejong Electronic Dictionary), <i>-ey</i> is playing the same role as <i>in</i> in English.
 
