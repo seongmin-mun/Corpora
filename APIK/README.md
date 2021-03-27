@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="../CSS/APLK.css">
 # Adverbial Postpositions In Korean (APIK)
 
 ## Abstract
@@ -32,9 +33,6 @@ location; SRC = source; THM = theme
 # Examples for the functions of each postposition
 
 ## <i>-ey</i>
-
-<link rel="stylesheet" type="text/css" href="../CSS/APLK.css">
-
 
 
 <p class="a">A paragraph with a top and bottom margin of 30 pixels.</p>
