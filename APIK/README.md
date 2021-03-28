@@ -192,7 +192,7 @@ The definition of LOC is the same as described above (see (1)). In the following
 
 <pre>
      (16) <i>-(u)lo</i> as LOC (location)
-          검찰이           피해자를        검찰로              압송하다.
+          찰이           피해자를        검찰로              압송하다.
           kyengchal-i    phiuyca-lul   kemchal-lo        apsongha-ta.
           police-NOM     suspect-ACC   prosecution-LOC   transport do-DECL
           'The police transport the suspect to the prosecution.'
